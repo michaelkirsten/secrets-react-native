@@ -1,7 +1,7 @@
 {
-    "name": "secrets.js-michaelkirsten",
+    "name": "shamir-secrets-react-native-expo",
     "version": "2.0.0",
-    "description": "Shamir's threshold secret sharing scheme for JavaScript.",
+    "description": "Shamir's threshold secret sharing scheme for React Native Expo.",
     "main": "secrets.js",
     "directories": {
         "example": "examples"
